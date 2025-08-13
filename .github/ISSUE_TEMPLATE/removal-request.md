@@ -2,7 +2,7 @@
 name: Removal Request
 about: Create a request to remove on of your resource Packs
 title: Removal Request for Resource Pack X
-labels: ''
+labels: Removal Request
 assignees: TimPGamer
 
 ---
